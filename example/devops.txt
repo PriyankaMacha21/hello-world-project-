@@ -1,0 +1,4 @@
+HI I am devops directory
+I am learning git 
+how to commit into local repo and how to push into central repo
+
