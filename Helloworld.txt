@@ -1,1 +1,2 @@
 Hi i am learning on my own how to bring the files into stagging area and then commit to local repo and then push it to the central repo 
+These are the steps that I follow to understand how version control tools like git and GitHub work.
